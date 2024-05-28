@@ -1,7 +1,7 @@
 import React from 'react';
 
 function AnaSayfa() {
-  return <div>AnaSayfa</div>;
+  return <div>AnaSayfa içerik</div>;
 }
 
 export default AnaSayfa;
